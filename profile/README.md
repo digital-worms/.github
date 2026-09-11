@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🪱 Digital Worms
+<img src="../assets/digital-worms-logo.png" width="220">
+
+# Digital Worms
 
 ### Friends. Events. Expenses. Memories.
-
-Digital Worms is a social platform for groups of friends to organize events, manage shared expenses, preserve memories, and stay connected.
 
 </div>
 
